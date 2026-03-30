@@ -25,7 +25,7 @@ Booking Module – Handles event reservations and scheduling
 Payment Module – Manages billing and payment tracking
 Analytics Module – Displays reports and statistics
 Documentation
-https://github.com/Karishma-R1302/Karish/commit/72b226ff7c7f31281b11bbbc49dd0c9d69c7e502
+[Project Report](https://github.com/Karishma-R1302/Karish/commit/72b226f)
 Team Members
 Karishma
 Madhumitha
